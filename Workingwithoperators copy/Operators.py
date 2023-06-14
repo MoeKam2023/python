@@ -1,0 +1,5 @@
+print(4 - 5)
+print(3 * 8)
+print(45 / 6)
+print (3 - 9 / 5 + 56) 
+print(45678 * 34567)
